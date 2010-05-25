@@ -1,0 +1,8 @@
+Spike Parse Instructions
+
+How to Update to the Latest Version
+1. Right click in the window of this folder.
+2. Click SVN Update
+
+How to Run The Spike Parser
+1. Double click on spikeparse.py
